@@ -1,5 +1,7 @@
 # Sudoku Solver
 
+# MAJOR NOTE: finished orginal project in 2025, but made major improvements starting last December of 2025 until end of March 2026 (not improvements in Things I'd try next).
+
 A constraint-based Sudoku solver written in Python. It combines **constraint propagation** with **backtracking search** to solve standard 9×9 puzzles, including notoriously difficult ones, typically in well under a second.
 
 ## How It Works
